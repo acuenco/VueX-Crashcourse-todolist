@@ -1,5 +1,4 @@
 # vuex-crash-course
-
 ## Project setup
 ```
 yarn install
