@@ -1,4 +1,7 @@
 # vuex-crash-course
+
+Todo List - VueX crash coursh (https://youtu.be/5lVQgZzLMHc)
+
 ## Project setup
 ```
 yarn install
